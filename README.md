@@ -4,7 +4,7 @@ Those programs and routines are only for personal use and non commercial use.
 
 If you want commercial use, please contact me.
 
-Those 2 programs are written for Windows 10 PC but they can run on a Jetson Nano
+Those 2 programs are written for Windows 10 PC but they can run on a Jetson Nano. Of course, you will need a Nvidia GPU because of CUDA routines.
 
 Those programs require Python 3.7 (3.6 for Jetson Nno is OK).
 You will need those Python libraries :
